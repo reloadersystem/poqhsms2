@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="domain">http://192.169.218.177:8080/FacturacionElectronicaSIIAA/api/v1/</string>
+    <string name="smspendiente">estudiante/listarSmsPendiente</string>
+    <string name="smsactualizar">estudiante/actualizarSmsEnviado</string>
+</resources>
